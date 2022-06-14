@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B440A5A728571B6600D8E527 /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B440A5A628571B6600D8E527 /* MyView.swift */; };
 		B4AC7843284382DB00BB4DA6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4AC7842284382DB00BB4DA6 /* AppDelegate.swift */; };
 		B4AC7845284382DB00BB4DA6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4AC7844284382DB00BB4DA6 /* SceneDelegate.swift */; };
 		B4AC7847284382DB00BB4DA6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4AC7846284382DB00BB4DA6 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B440A5A628571B6600D8E527 /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
 		B4AC783F284382DB00BB4DA6 /* BeliyCourse1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BeliyCourse1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4AC7842284382DB00BB4DA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4AC7844284382DB00BB4DA6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				B4AC7842284382DB00BB4DA6 /* AppDelegate.swift */,
 				B4AC7844284382DB00BB4DA6 /* SceneDelegate.swift */,
 				B4AC7846284382DB00BB4DA6 /* ViewController.swift */,
+				B440A5A628571B6600D8E527 /* MyView.swift */,
 				B4AC7848284382DB00BB4DA6 /* Main.storyboard */,
 				B4AC784B284382DE00BB4DA6 /* Assets.xcassets */,
 				B4AC784D284382DE00BB4DA6 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B440A5A728571B6600D8E527 /* MyView.swift in Sources */,
 				B4AC7847284382DB00BB4DA6 /* ViewController.swift in Sources */,
 				B4AC7843284382DB00BB4DA6 /* AppDelegate.swift in Sources */,
 				B4AC7845284382DB00BB4DA6 /* SceneDelegate.swift in Sources */,
